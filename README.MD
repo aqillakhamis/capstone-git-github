@@ -14,7 +14,7 @@ This repository contains all workshop materials. Materials are organized so inst
 1. Open the workshop syllabus or slides (PDFs) in the pdf-format folder.
 
 ## 📁 Repository structure (example)
-- pdf-format/        ← Primary workshop materials in PDF format (slides, handouts)  
+- Workshop Material/        ← Primary workshop materials in PDF format (slides, handouts)  
 - README.md          ← This file
 
 Note: Refer to the pdf-format folder for all printed/participant-ready PDFs.
